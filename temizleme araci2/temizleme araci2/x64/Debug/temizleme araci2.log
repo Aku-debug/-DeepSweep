@@ -1,0 +1,39 @@
+﻿  temizleme araci2.cpp
+libcpmtd.lib(xlocale.obj) : error LNK2001: çözümlenmemiş dış sembol _calloc_dbg
+temizleme araci2.obj : error LNK2001: çözümlenmemiş dış sembol _calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: çözümlenmemiş dış sembol _calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: çözümlenmemiş dış sembol _calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: çözümlenmemiş dış sembol _calloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+temizleme araci2.obj : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(cin.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: çözümlenmemiş dış sembol _free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+temizleme araci2.obj : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(cin.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: çözümlenmemiş dış sembol _malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: çözümlenmemiş dış sembol _CrtDbgReport
+libcpmtd.lib(xlocale.obj) : error LNK2001: çözümlenmemiş dış sembol _CrtDbgReport
+temizleme araci2.obj : error LNK2001: çözümlenmemiş dış sembol _CrtDbgReport
+libcpmtd.lib(cin.obj) : error LNK2001: çözümlenmemiş dış sembol _CrtDbgReport
+libcpmtd.lib(cout.obj) : error LNK2001: çözümlenmemiş dış sembol _CrtDbgReport
+libcpmtd.lib(locale.obj) : error LNK2001: çözümlenmemiş dış sembol _CrtDbgReport
+libcpmtd.lib(_tolower.obj) : error LNK2019: çözümlenmemiş dış sembol _wcsdup_dbg için _Getctype işlevinde başvuruldu
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: çözümlenmemiş dış sembol _wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2019: çözümlenmemiş dış sembol _realloc_dbg için "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned __int64)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPEAV123@PEAVfacet@23@_K@Z) işlevinde başvuruldu
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2019: çözümlenmemiş dış sembol _CrtDbgReportW için _freea_crt işlevinde başvuruldu
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: çözümlenmemiş dış sembol _CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: çözümlenmemiş dış sembol _CrtDbgReportW
+C:\Users\Tokky\OneDrive\Desktop\akunun entel uygulamalari\temizleme araci2\x64\Debug\temizleme araci2.exe : fatal error LNK1120: 7 çözümlenmemiş dışlar
