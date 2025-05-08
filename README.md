@@ -1,8 +1,8 @@
-<h1 align="center">🔧 ShadowUninstaller</h1>
+<h1 align="center">🔧 DEEPSWEEP</h1>
 
 <p align="center">
-  <b><i>Clean your system from the shadows – deep uninstall and trace removal for all apps!</i></b><br>
-  <b><i>Sisteminizi gölgelerden temizleyin – tüm uygulamalar için derinlemesine kaldırma ve iz temizleme!</i></b>
+  <b><i>Clean your system from the DeepSweep – deep uninstall and trace removal for all apps!</i></b><br>
+  <b><i>Sisteminizi DeepSweep – tüm uygulamalar için derinlemesine kaldırma ve iz temizleme!</i></b>
 </p>
 
 <p align="center">
