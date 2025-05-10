@@ -26,7 +26,7 @@
 
 ## 🧩 How It Works / Nasıl Çalışır?
 
-🔍 **ShadowUninstaller**, sisteminizde kurulu olan hem **klasik** hem de **portable (taşınabilir)** uygulamaları tarar.  
+🔍 **DEEPSWEEP**, sisteminizde kurulu olan hem **klasik** hem de **portable (taşınabilir)** uygulamaları tarar.  
 Kayıt defteri, disk sürücüleri ve `AppData` klasörlerini inceleyerek, uygulamaların tüm izlerini temiz bir şekilde kaldırır.
 
 ### Teknik Özellikler:
